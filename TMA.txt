@@ -1,0 +1,43 @@
+
+Operação : Banco PAN
+Colaborador: 898989 gabriel
+Analista responsavel: Iago Leal do Nascimento
+Tempo de atendimento: 00:28
+Tipo de incidente: ITX - Instalação.
+Status: Realizando testes e procedimentos
+ -=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Operação : PASA
+ Colaborador: 5555 gabriel
+Analista responsavel: Matheus Cruz Alves
+Tempo de atendimento: 00:28
+Tipo de incidente: ITX - Instalação.
+Status: Realizando testes e procedimentos
+ -=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Operação : Banco PAN
+Colaborador: 5555 gabriel
+Analista responsavel: Victor Mariano Rodrigues de Moura
+Tempo de atendimento: 00:28
+Tipo de incidente: VPN não conecta.
+Status: Realizando testes e procedimentos
+ -=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Operação : Banco PAN
+Colaborador: 5555 gabriel
+Analista responsavel: Rodrigo Oliveira Correia
+Tempo de atendimento: 00:28
+Tipo de incidente: VDI - Não conecta.
+Status: Realizando testes e procedimentos
+ -=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Operação : Banco PAN
+Colaborador: 2222 gabriel
+Analista responsavel: Joyce de Jesus da Silva
+Tempo de atendimento: 00:54
+Tipo de incidente: Genesys - Configuração.
+Status: Realizando testes e procedimentos
+ -=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Operação : Banco PAN
+Colaborador: 5555 Gabriel
+Analista responsavel: Daniel Pinto dos Santos Silva
+Tempo de atendimento: 00:25
+Tipo de incidente: VPN não conecta.
+Status: Realizando testes e procedimentos
+ -=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
