@@ -1,3 +1,4 @@
+import os
 import time
 
 print("\n -=- -=- -=- -=- -=- -=- -=- CONTROLE DE TMA -=- -=- -=- -=- -=- -=- -=- \n")
@@ -279,3 +280,4 @@ while True:
 
     arquivo.write('-=-'*24)
     arquivo.close()
+    os.system("TMA.txt")
